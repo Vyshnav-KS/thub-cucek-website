@@ -10120,7 +10120,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/header-bg.jpg");
+  background-image: url("../assets/img/bb1.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -10540,4 +10540,11 @@ section#contact form#contactForm :-ms-input-placeholder {
       align-items: center;
       text-align: center;
     }
+}
+.resource-link{
+  text-decoration: none !important;
+  color: #000;
+}
+.resource-link:hover{
+  color: darkblue;
 }

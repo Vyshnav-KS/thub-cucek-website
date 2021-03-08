@@ -1,0 +1,32 @@
+.stick-top{
+    position:absolute !important;
+   /* background-color: #212529 !important;*/
+   background-color: transparent !important;
+}
+header.masthead{
+    background-image: url('../img/bb3.jpg') !important;
+}
+.home-btn{
+    background-color: #fec810 !important;
+    border: #fec810 !important;
+    padding: 1.25rem 2.5rem !important;
+    font-size: 1.125rem !important;
+    font-weight: 700 !important;
+}
+.courses{
+    font-weight: 900 !important;
+}
+.h-1{
+    text-align: left;
+}
+.sub-h-1{
+    font-style:normal !important;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    text-align: left;
+}
+
+.b-1{
+   margin-left: 0;
+   margin-right: 100%;
+}
