@@ -1,3 +1,5 @@
+
+html, body {width: auto!important; overflow-x: hidden!important}
 .stick-top{
     position:absolute !important;
    /* background-color: #212529 !important;*/
